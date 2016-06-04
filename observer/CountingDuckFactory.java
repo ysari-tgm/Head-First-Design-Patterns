@@ -1,5 +1,11 @@
 package headfirst.designpatterns.combining.observer;
 
+/**
+ * 
+ * 
+ * @author Yunus Sari
+ * @version
+ */
 public class CountingDuckFactory extends AbstractDuckFactory {
   
 	public Quackable createMallardDuck() {

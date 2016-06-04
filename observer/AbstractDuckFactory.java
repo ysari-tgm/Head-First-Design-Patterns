@@ -1,6 +1,8 @@
 package headfirst.designpatterns.combining.observer;
 
 /**
+ * Pattern: Factory Pattern
+ * 
  * Diese abstrakte Klasse AbstractDuck Factory definiert eine Familie von
  * zusammengehörigen Produkten.
  * In diesem Fall sind es die Arten von Enten.
