@@ -1,13 +1,12 @@
-# Head First Design Patterns (2014 update)
+# Head First Design Patterns - Observer
 
-I have recently updated all the code for Head First Design Patterns to be compatible
-with Java 8. This new code accompanies an update for the book, released in July, 2014.
+Dies ist eine Übung zu den Design Patterns.
 
-Download the code and compile and run from the command line, or load the code into 
-project in Eclipse (Kepler, with the Java 8 beta patch).
+# Aufgabenstellung
 
-https://wiki.eclipse.org/JDT/Eclipse_Java_8_Support_For_Kepler
+Analysieren Sie den Code [1] und erstellen Sie ein UML-Klassendiagramm. Beschreiben Sie mit Javadoc Kommentaren die einzelnen Klassen und deren Zugehörigkeit sowie die entsprechenden Patterns.
 
+Erstellen Sie Ihren Javadoc Ordner und laden Sie diesen und Ihre angepassten Codesnippets auf Github. Geben Sie hier Ihren public-Link ab.
+Vorschlag: Forken Sie das Repository!
 
-Other links for the book are available on the book page at <a href="http://wickedlysmart.com/head-first-design-patterns/">wickedlysmart.com</a>.
-
+[1] https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/combining/observer
